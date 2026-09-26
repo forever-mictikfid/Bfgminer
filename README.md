@@ -213,4 +213,4 @@ BFGMiner is provided as a full free version with all features and updates includ
 Start maximizing your Bitcoin mining potential with BFGMiner today! Download now and take your first step towards earning cryptocurrencies.
 
 ---
-**Last updated:** 2026-09-25 23:49:16 UTC
+**Last updated:** 2026-09-26 02:54:06 UTC
